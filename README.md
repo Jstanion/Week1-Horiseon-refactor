@@ -8,6 +8,8 @@ In this project I took an old source code for the company website and refactored
 
 The following image is what the page should look like. 
 
+## Screenshot of page
+
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./develop/assets/images/horiseon-home-page.png)
 
 ## License
