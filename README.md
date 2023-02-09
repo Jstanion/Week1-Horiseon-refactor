@@ -2,16 +2,18 @@
 
 ## Description
 
-In this project I took an old source code for the company website and refactored it by adding semantic elements. In addition to semantic elements, there are alt attributes added to all images and icons for better accessibility and search engine optimization. I learned to carefully go through the source code, making incremental changes to prevent any major CSS issues stemming from broken code.
+I was given old source code for a company website that needed refactoring. I applied the following changes to update the source code.
 
-## Usage
+- Added semantic elements and alt attributes to the images for screen reader accessibility.
+- Gave the attributes clear descriptions for better search engine optimization.
+- Combined and consolidated the CSS code to make navigation and future changes easier.
 
-The following image is what the page should look like. 
+I learned to carefully go through the source code, making incremental changes to prevent major CSS issues that could stem from broken code.
 
 ## Screenshot of page
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./develop/assets/images/horiseon-home-page.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/horiseon-home-page.png)
 
 ## License
 
-Refer to the license listed in the repo. 
+Refer to the license listed in the repo.
